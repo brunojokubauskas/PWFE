@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+}
+
+td, th {
+  border: 1px solid #000;
+  padding:10px;
+  text-align: center;
+} 
+
+form {
+  font-size: 20px;
+  
+}
+
+.texto {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 130px;
+}  
+.formulario {
+  display: flex;
+  justify-content: center;
+} 
+
+.txt-btn {
+  padding: 5px;
+  border-radius: 5px;
+}
